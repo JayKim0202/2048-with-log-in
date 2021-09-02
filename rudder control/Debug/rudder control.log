@@ -1,0 +1,19 @@
+﻿  finish.c
+  main.c
+  rudder_control.c
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(22,2): error C2059: 구문 오류: 'switch'
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(28,3): error C2043: break가 잘못되었습니다.
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(30,2): error C2046: 대/소문자가 잘못되었습니다.
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(33,3): error C2043: break가 잘못되었습니다.
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(35,2): error C2046: 대/소문자가 잘못되었습니다.
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(38,3): error C2043: break가 잘못되었습니다.
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(40,2): error C2046: 대/소문자가 잘못되었습니다.
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(43,3): error C2043: break가 잘못되었습니다.
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(45,2): error C2047: 기본값이 잘못되었습니다.
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(50,9): error C2143: 구문 오류: ')'이(가) '문자열' 앞에 없습니다.
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(50,9): error C2143: 구문 오류: '{'이(가) '문자열' 앞에 없습니다.
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(50,9): error C2059: 구문 오류: '문자열'
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(50,14): error C2059: 구문 오류: ')'
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(52,2): error C2059: 구문 오류: 'return'
+C:\Users\우리집노트북2\Desktop\game project\Game Project\rudder control\rudder_control.c(53,1): error C2059: 구문 오류: '}'
+  코드를 생성하고 있습니다...
