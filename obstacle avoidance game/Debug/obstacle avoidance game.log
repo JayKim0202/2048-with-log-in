@@ -1,6 +1,0 @@
-﻿  vertical_bar.c
-C:\Users\우리집노트북2\Desktop\game project\Game Project\obstacle avoidance game\vertical_bar.c(94): warning C4716: 'score': 값을 반환해야 합니다.
-C:\Users\우리집노트북2\Desktop\game project\Game Project\obstacle avoidance game\vertical_bar.c(139): warning C4716: 'up_vertical_bar': 값을 반환해야 합니다.
-C:\Users\우리집노트북2\Desktop\game project\Game Project\obstacle avoidance game\vertical_bar.c(159): warning C4716: 'first_down_vertical_bar': 값을 반환해야 합니다.
-C:\Users\우리집노트북2\Desktop\game project\Game Project\obstacle avoidance game\vertical_bar.c(176): warning C4716: 'down_vertical_bar': 값을 반환해야 합니다.
-  obstacle avoidance game.vcxproj -> C:\Users\우리집노트북2\Desktop\game project\Game Project\Debug\obstacle avoidance game.exe
