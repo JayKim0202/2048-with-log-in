@@ -1,9 +1,0 @@
-﻿  main.c
-  play_game.c
-  rule.c
-  starting_screen.c
-C:\Users\우리집노트북2\Desktop\game project\Game Project\2048\starting_screen.c(82,18): warning C4013: 'choose_option'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  _3X3.c
-  코드를 생성하고 있습니다...
-C:\Users\우리집노트북2\Desktop\game project\Game Project\2048\main.c(17): warning C4716: 'cursor_view_f': 값을 반환해야 합니다.
-  2048.vcxproj -> C:\Users\우리집노트북2\Desktop\game project\Game Project\Debug\2048.exe
