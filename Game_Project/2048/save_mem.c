@@ -129,5 +129,5 @@ void create_id(MEM* ID)
 {
 	FILE* fp = fopen("2048_member.txt", "a+t");
 
-
+	fwrite()
 }

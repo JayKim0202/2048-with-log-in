@@ -1,2 +1,18 @@
-﻿  default_frame.c
-  2048.vcxproj -> C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\Debug\2048.exe
+﻿  save_mem.c
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(18,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(36,11): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(40,12): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(66,22): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(66,18): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(81,27): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(81,23): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(93,29): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(93,25): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(58,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(79,11): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(82,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(87,12): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(94,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(132,8): error C2198: 'fwrite': 호출에 인수가 너무 적습니다.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(133,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\우리집노트북2\Desktop\Git_hub\GAME\Game_Project\2048\save_mem.c(130,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
