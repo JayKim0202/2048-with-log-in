@@ -16,5 +16,7 @@ void dele_last_char(char* buf);
 int return_index();
 // 아이디 겹침 확인 // 겹치면 겹치는 인덱스 리턴 // 아니면 -1
 int check_id_exist(char* ID);
+// 아이디 생성
+void create_id(MEM ID);
 
 #endif

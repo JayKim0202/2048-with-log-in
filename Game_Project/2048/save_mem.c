@@ -124,10 +124,29 @@ int check_id_exist(char* ID)
 }
 
 
+// 구조체 포인터로 매개변수 보낼 시 오류남
+// 구조체 매개변수 보낼 시 오류남
+// 왜 오류나는 지 모르겠다
+// 분명 헤더 파일에 구조체가 들어가 있는데 구조체가 정의되어있지 않다고 뜬다... 뭐하자는 거지
+// 
 // 아이디 생성
-void create_id(MEM* ID)
+void create_id(MEM ID)
 {
 	FILE* fp = fopen("2048_member.txt", "a+t");
+	char comma = ',';
 
-	fwrite()
+	fwrite(ID.ID, strlen(ID.ID) - 1, 1, fp);
+	fwrite(&comma, 1, 1, fp);
+	fwrite(ID.PW, strlen(ID.PW) - 1, 1, fp);
+	fwrite(&comma, 1, 1, fp);
+	fwrite(ID.name, strlen(ID.name) - 1, 1, fp);
+	fwrite(&comma, 1, 1, fp);
+	fwrite(ID.age, strlen(ID.age) - 1, 1, fp);
+	fwrite(&comma, 1, 1, fp);
+	fwrite(&(ID.score), 1, 1, fp);
+	fwrite(&comma, 1, 1, fp);
+	fwrite(&(ID.index), sizeof(ID.index), 1, fp);
+
+
+	fclose(fp);
 }

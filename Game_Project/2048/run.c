@@ -282,7 +282,7 @@ void run_sign_up_screen()
 							strcpy(member.age, temp_mem.age);
 							member.index = temp_mem.index;
 							// »ý¼º Ä­
-
+							create_id(member);
 
 
 
