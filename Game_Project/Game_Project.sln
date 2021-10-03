@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2048", "2048\2048.vcxproj", "{682644C0-7EC9-4CFD-B724-A80281B219B2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "obstacle avoidance game", "obstacle avoidance game\obstacle avoidance game.vcxproj", "{DD64FA64-F15D-4693-96A7-7FAA86CBED1B}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rudder_control_2", "rudder_control_2\rudder_control_2.vcxproj", "{1D38A69D-3F3E-483D-A815-43E02B6F31A1}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{ED7F6249-0860-4F65-B840-7CD070DD5A0C}"
 EndProject
 Global
@@ -27,22 +23,6 @@ Global
 		{682644C0-7EC9-4CFD-B724-A80281B219B2}.Release|x64.Build.0 = Release|x64
 		{682644C0-7EC9-4CFD-B724-A80281B219B2}.Release|x86.ActiveCfg = Release|Win32
 		{682644C0-7EC9-4CFD-B724-A80281B219B2}.Release|x86.Build.0 = Release|Win32
-		{DD64FA64-F15D-4693-96A7-7FAA86CBED1B}.Debug|x64.ActiveCfg = Debug|x64
-		{DD64FA64-F15D-4693-96A7-7FAA86CBED1B}.Debug|x64.Build.0 = Debug|x64
-		{DD64FA64-F15D-4693-96A7-7FAA86CBED1B}.Debug|x86.ActiveCfg = Debug|Win32
-		{DD64FA64-F15D-4693-96A7-7FAA86CBED1B}.Debug|x86.Build.0 = Debug|Win32
-		{DD64FA64-F15D-4693-96A7-7FAA86CBED1B}.Release|x64.ActiveCfg = Release|x64
-		{DD64FA64-F15D-4693-96A7-7FAA86CBED1B}.Release|x64.Build.0 = Release|x64
-		{DD64FA64-F15D-4693-96A7-7FAA86CBED1B}.Release|x86.ActiveCfg = Release|Win32
-		{DD64FA64-F15D-4693-96A7-7FAA86CBED1B}.Release|x86.Build.0 = Release|Win32
-		{1D38A69D-3F3E-483D-A815-43E02B6F31A1}.Debug|x64.ActiveCfg = Debug|x64
-		{1D38A69D-3F3E-483D-A815-43E02B6F31A1}.Debug|x64.Build.0 = Debug|x64
-		{1D38A69D-3F3E-483D-A815-43E02B6F31A1}.Debug|x86.ActiveCfg = Debug|Win32
-		{1D38A69D-3F3E-483D-A815-43E02B6F31A1}.Debug|x86.Build.0 = Debug|Win32
-		{1D38A69D-3F3E-483D-A815-43E02B6F31A1}.Release|x64.ActiveCfg = Release|x64
-		{1D38A69D-3F3E-483D-A815-43E02B6F31A1}.Release|x64.Build.0 = Release|x64
-		{1D38A69D-3F3E-483D-A815-43E02B6F31A1}.Release|x86.ActiveCfg = Release|Win32
-		{1D38A69D-3F3E-483D-A815-43E02B6F31A1}.Release|x86.Build.0 = Release|Win32
 		{ED7F6249-0860-4F65-B840-7CD070DD5A0C}.Debug|x64.ActiveCfg = Debug|x64
 		{ED7F6249-0860-4F65-B840-7CD070DD5A0C}.Debug|x64.Build.0 = Debug|x64
 		{ED7F6249-0860-4F65-B840-7CD070DD5A0C}.Debug|x86.ActiveCfg = Debug|Win32
